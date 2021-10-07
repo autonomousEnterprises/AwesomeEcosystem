@@ -6,10 +6,9 @@
 
 A curated collection of Web3, DAO, DeFi and more
 
-Looking for contributors. Submit a pull request if you have something to add :)
+> Looking for contributors. Submit a pull request if you have something to add :)
 > Hint: Contributors will be rewarded with ELABS Token. [Find out more about ELABS here](https://elabs.ecosis.io)
-
-_Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
+> _Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
 
 ## Table of Contents
 - [General](#general)
