@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## Contribution Rewards
 
-By making a Pull Request, please leave your **Polygon Network Address**, so you can get rewarded with ELABS Token in the next Round.
+By making a Pull Request, please leave your **Polygon Network Address** is the *Pull Request Comment Section*, so you can get rewarded with ELABS Token in the next Round.
 
 > [Find out more about ELABS here](https://elabs.ecosis.io)
 
