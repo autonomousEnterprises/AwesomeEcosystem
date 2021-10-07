@@ -26,7 +26,7 @@ A curated collection of Web3, DAO, DeFi and more
 
 1. [Ethereum](https://github.com/bekatom/awesome-ethereum) Ethereum & Dapps Resources
 1. [Hive](https://github.com/openhive-network/awesome-hive) Hive Resources
-1. [Avalanche](https://github.com/tbrunain/awesome-avalanche) List for Avalanche, the next generation blockchain platform 
+1. [Avalanche](https://github.com/tbrunain/awesome-avalanche) List for Avalanche, the next generation blockchain platform
 
 ## Platforms
 
@@ -35,4 +35,4 @@ A curated collection of Web3, DAO, DeFi and more
 ## DeFi
 
 1. [DeFi](https://github.com/talentlessguy/awesome-defi) DeFi protocols, dapps, wallets and other resources
-1- [DeFi Map](https://github.com/YutaSugimura/DeFi-Map) List of decentralized finance projects on Ethereum
+1. [DeFi Map](https://github.com/YutaSugimura/DeFi-Map) List of decentralized finance projects on Ethereum
