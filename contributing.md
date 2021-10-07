@@ -17,7 +17,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## Contribution Rewards
 
-By making a Pull Request, please leave your **Polygon Network Address** in the *Pull Request Comment Section*, so you can get rewarded with ELABS Token in the next Round.
+By making a Pull Request, please leave your **Polygon Network Address** in the *Pull Request Comment Section*, so you can get rewarded with ELABS Token in the next Round (limited rounds for 2021), if request is accepted.
+> ***Please keep in mind we only can reward the work on THIS REPOSITORY (https://github.com/AwesomeEcosystem/AwesomeEcosystem) and NOT for other maintainers***
 
 The Format should looks like this because of automations:
 
