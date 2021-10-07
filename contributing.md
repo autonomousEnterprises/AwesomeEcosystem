@@ -15,5 +15,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `[Name](link) - Description.` keep the len(description + name) < 100
 - Don't use any vague language. Optimise for topic, content and author discovery.
 
+## Contribution Rewards
 
-Thank you for your suggestions!
+By making a Pull Request, please leave your **Polygon Network Address**, so you can get rewarded with ELABS Token in the next Round.
+
+> [Find out more about ELABS here](https://elabs.ecosis.io)
+
+---
+
+Thank you for your Contributions!
